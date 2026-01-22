@@ -1,23 +1,39 @@
-# Olá! 👋 Sou o Matheus
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Sou estudante de **Engenharia de Software** e estou construindo minha jornada através do código 🚀
+###
 
-## Sobre mim
+<p align="left">Meu nome é Matheus, sou estudante de Engenharia de Software e estou construindo minha jornada através do código 🚀</p>
 
-🐛 **Caçando bugs desde 2025**
+###
 
-💻 Atualmente estou aprimorando meus conhecimentos em **Python** e **C**, com foco em lógica de programação e resolução de problemas.
+<h2 align="left">About me</h2>
 
-🎯 **Objetivos atuais:**
-* Transformar teoria em projetos reais.
-* Construir um portfólio sólido.
-* Dominar fundamentos de Engenharia de Software.
+###
 
-🧠 *Curiosidade: Eu realmente gosto de depurar código (depois que o estresse passa 😂).*
+<p align="left">✨ Criando bugs desde: 2025<br><br>📚 Atualmente estou aprendendo <code>Python</code> e <code>C</code>, com foco em lógica, resolução de problemas e fundamentos sólidos de programação.<br><br>🎯 Objetivos:<br>- Aprimorar minhas habilidades de programação diariamente<br>- Transformar a teoria em projetos reais<br>- Construir um portfólio robusto ao longo do tempo<br><br>🎲 Curiosidade: Eu realmente gosto de depurar (depois que o estresse passa 😅)</p>
 
-## 🛠 Habilidades
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+<h2 align="left">Skills</h2>
 
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lucas-ferreira-4b1071236)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLucas20/MatheusLucas20/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusLucas20/MatheusLucas20/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusLucas20/MatheusLucas20/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusLucas20.MatheusLucas20&"  />
+</div>
