@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@v2
+
+      # AQUI MUDOU: Atualizado para v3
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: MatheusLucas20
@@ -21,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
